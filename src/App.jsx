@@ -18,9 +18,11 @@ const App = () => {
           className="login-input" /> {/* Password input */}
         <button className="login-button">Login</button> {/* Login button */}
         <p className="forgot-password">
-          <a href="#">Forgot Password?</a> {/* Link to forgot password */}
+          <a href="#">Forgot Password</a> {/* Link to forgot password */}
         </p>
       </div>
+
+      <ThisisNewFIle />
     </div>
   );
 };
