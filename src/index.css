@@ -1,0 +1,10 @@
+/* src/index.css */
+body {
+  margin: 0; /* Remove default margin */
+  display: flex; /* Use flexbox for centering */
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  min-height: 100vh; /* Full viewport height */
+  background-color: blue;
+  color: white; /* Optional: Set text color to white for better contrast */
+}
